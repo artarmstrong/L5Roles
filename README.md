@@ -1,2 +1,2 @@
-# L5 Roles
+# LaraRoles
 Laravel 5 Roles

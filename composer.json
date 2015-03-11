@@ -1,0 +1,21 @@
+{
+    "name": "artarmstrong/lararoles",
+    "description": "Laravel 5 Roles",
+    "keywords": ["artarmstrong", "roles", "auth", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Art Armstrong",
+            "email": "art@avelient.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "ArtArmstrong\\LaraRoles": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+}
