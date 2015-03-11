@@ -1,5 +1,5 @@
 {
-    "name": "artarmstrong/lararoles",
+    "name": "artarmstrong/L5Roles",
     "description": "Laravel 5 Roles",
     "keywords": ["artarmstrong", "roles", "auth", "laravel"],
     "license": "MIT",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "ArtArmstrong\\LaraRoles": "src/"
+            "ArtArmstrong\\L5Roles": "src/"
         }
     },
     "minimum-stability": "dev",
